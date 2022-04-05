@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+🔭 I’m currently working on...
+- TWAMM impl for my senior design project.
+- MEV arb for independent research.
+- Smart contracts for Magna (YC W'22).
+- Trading strategies at a crypto hedge fund.
+
 <!--
 **benleim/benleim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
